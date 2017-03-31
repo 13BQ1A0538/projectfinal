@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "337313359627",
+    "firebase_url": "https://project1-d3649.firebaseio.com",
+    "project_id": "project1-d3649",
+    "storage_bucket": "project1-d3649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337313359627:android:6eeee77f3e4bc47a",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337313359627-4lkd5es2e7faj7b0mv1tkk6edaq2aegg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEmkW0Tk23kNmFxbteGxbt5h4tP_BEQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
